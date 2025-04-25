@@ -1,0 +1,12 @@
+.rectangulo {
+    width: 100vw;        
+    height: 33.33vh;      
+    background-color: white;  
+  }
+  
+  .rectanguloMedio {
+    width: 100vw;        
+    height: 33.33vh;      
+    background-color: lightblue;  
+  }
+    
