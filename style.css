@@ -1,12 +1,31 @@
+.navBar {
+  width: 100vw;
+  height: 50;
+  background-color: rgb(102, 169, 236);
+}
+
+.barraBlanca {
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.linea {
+  height: 5px;
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+}
+
 .rectangulo {
     width: 100vw;        
-    height: 33.33vh;      
+    height: 50vh;      
     background-color: white;  
   }
   
   .rectanguloMedio {
     width: 100vw;        
-    height: 33.33vh;      
+    height: 50vh;      
     background-color: lightblue;  
   }
     
