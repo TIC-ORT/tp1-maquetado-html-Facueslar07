@@ -17,6 +17,66 @@
   margin: 0 auto;
 }
 
+.bloque {
+  background-color: #c5eff2; 
+  padding: 40px;
+  display: flex;
+  align-items: center; 
+  justify-content: flex-start;
+  height: 50vh; 
+  gap: 40px;
+}
+
+.texto {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 100px;
+}
+
+
+.cardBlanca {
+  background-color: white;
+  padding: 20px;
+  width: 180px;
+}
+
+.barraCorta {
+  height: 20px;
+  width: 60px;
+  background-color: #555;
+  margin-bottom: 10px;
+}
+
+.lineaTexto {
+  height: 10px;
+  width: 100%;
+  background-color: #eee;
+  margin-bottom: 8px;
+}
+
+.barraFinal {
+  height: 8px;
+  width: 80px;
+  background-color: #7acfd5;
+  margin-top: 10px;
+}
+
+.inicio {
+  height: 20px;
+  width: 100px;
+  background-color: rgb(102, 169, 236);
+}
+
+.contenido{
+  height: 5px;
+  width: 200px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+
+
 .rectangulo {
     width: 100vw;        
     height: 50vh;      
